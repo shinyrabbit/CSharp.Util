@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Util", "CSharp.Util\CSharp.Util.csproj", "{1AFE771B-6667-4EFA-B414-5D906B23D267}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Util.MySql", "CSharp.Util.MySql\CSharp.Util.MySql.csproj", "{CEB2A987-849B-4851-AEFF-DD075841B2B1}"

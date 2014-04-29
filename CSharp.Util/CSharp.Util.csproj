@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DataTableHelper.cs" />
+    <Compile Include="Data\DbHelper.cs" />
     <Compile Include="Data\SqlHelper.cs" />
     <Compile Include="Data\XmlHelper.cs" />
     <Compile Include="EnumDesc.cs" />
